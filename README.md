@@ -57,9 +57,9 @@ For any questions or issues, please open an issue in the repository or contact t
 If you use this dataset in your research, please cite the following paper:
 
 ```bibtex
-@article{your_paper,
+@article{paper,
   title={A Deep Learning-Based Dataset to Predict Wildfire Spread from Remote Sensing Data: Integrating Landsat Satellite Data and Environmental Variables},
-  author={Your Name and Co-Authors},
+  author={Name and Co-Authors},
   journal={Journal Name},
   year={2024},
   volume={X},
