@@ -31,6 +31,20 @@ Daily variables were collected with a daily temporal resolution, providing detai
 
 ![image](https://github.com/user-attachments/assets/ac9f5b6c-3b60-479e-a8b5-6dd935430e8f)
 
+## Data Availability
+
+The dataset used in this study is available for download at the following link:
+
+[Download Wildfire Spread Dataset](your-download-link-here)
+
+This dataset includes three folders:
+- **Input (Constant)**: Contains constant variables such as NDBI, NDVI, NDWI, DEM, and Slope.
+- **Input (Daily)**: Contains daily variables such as Surface Pressure (SP), Precipitation, Maximum Surface Net Solar Radiation (SNSR), Soil Temperature Level 1 (STL1), Leaf Area Index for High Vegetation (LAIHV), Skin Temperature (ST), Runoff, Leaf Area Index for Low Vegetation (LAILV), Dew Point Temperature at 2 Meters Above the Surface (DT2m), Energy Release Component (ERC), Wind Direction (WD), Wind Speed (WS), and MODIS NDVI.
+- **Label**: Contains files corresponding to the labels for the wildfire spread predictions.
+
+Each folder contains a file that corresponds to those in the other two folders.
+
+
 
 ## Contact
 For any questions or issues, please open an issue in the repository or contact the authors at [mmarajni.@mun.ca](mailto:mmarajni.@mun.ca).
