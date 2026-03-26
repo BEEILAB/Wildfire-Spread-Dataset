@@ -57,15 +57,13 @@ For any questions or issues, please open an issue in the repository or contact t
 If you use this dataset in your research, please cite the following paper:
 
 ```bibtex
-@article{paper,
-  title={A Deep Learning-Based Dataset to Predict Wildfire Spread from Remote Sensing Data: Integrating Landsat Satellite Data and Environmental Variables},
-  author={Name and Co-Authors},
-  journal={Journal Name},
-  year={2024},
-  volume={X},
-  pages={X-Y},
-  doi={XX.XXXX/XXXXXX}
+@article{marjani2026abnextfire,
+  title={ABNextFire: A Multi-Source Deep Learning Based Dataset for Wildfire Spread Prediction},
+  author={Marjani, M. and Mohammadimanesh, F. and Mahdianpari, M.},
+  journal={IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing},
+  year={2026},
+  doi={10.1109/JSTARS.2026.3677699},
+  keywords={Wildfire spread prediction, Deep learning, Remote sensing, UNet, DeepLabV3}
 }
-
 
 
