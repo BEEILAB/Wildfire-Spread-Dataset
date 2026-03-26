@@ -1,4 +1,4 @@
-# A Deep Learning-Based Dataset to Predict Wildfire Spread from Remote Sensing Data: Integrating Landsat Satellite Data and Environmental Variables
+# ABNextFire: A Multi-Source Deep Learning Based Dataset for Wildfire Spread Prediction
 
 **Authors:** [Mohammad Marjani](https://www.linkedin.com/in/mohammad-marjani-727547206/), [Dr. Masoud Mahdianpari](https://www.mun.ca/engineering/about/our-people/masoud-mahdianpari/), [Dr. Fariba Mohammadimanesh](https://scholar.google.ca/citations?user=HlGuQ1gAAAAJ&hl=en&oi=sra)
 
