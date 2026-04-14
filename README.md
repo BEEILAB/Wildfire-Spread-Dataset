@@ -39,7 +39,7 @@ Daily variables were collected with a daily temporal resolution, providing detai
 
 The dataset used in this study is available for download at the following link:
 
-[Download Wildfire Spread Dataset](https://zenodo.org/uploads/19164604)
+[Download Wildfire Spread Dataset](https://drive.google.com/file/d/1UfWBbVo7QBLeESzTjnlVAUa0pYOFfC8L/view?usp=sharing)
 
 This dataset includes three folders:
 - **Input (Constant)**: Contains constant variables such as NDBI, NDVI, NDWI, DEM, and Slope.
